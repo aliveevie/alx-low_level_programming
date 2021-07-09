@@ -1,0 +1,5 @@
+library is not a luxury but one of the necessities of life
+mandatory
+Create the static library libholberton.a containing all the functions listed below:
+
+
